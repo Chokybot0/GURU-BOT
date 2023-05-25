@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497079', 'sandaru', true],
-  ['6281255369012', 'Ash', true], 
+  ['94752533734', 'sandaru', true],
+  ['94752533734', 'Ash', true], 
   [''] 
 ] //Number of owners
 
@@ -62,8 +62,8 @@ global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railw
 global.wait = '*LOADING PLEASE WAIT....*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.done = ' D O N E✅'
+global.error = '❌E R R O R' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
