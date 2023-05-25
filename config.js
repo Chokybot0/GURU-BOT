@@ -62,8 +62,8 @@ global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railw
 global.wait = '*LOADING PLEASE WAIT....*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.done = 'D O N E ✅'
+global.error = 'E R R O R❌' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
